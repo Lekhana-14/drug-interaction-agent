@@ -1,0 +1,34 @@
+# Project TODO
+
+- [x] Open attached project and inspect codebase
+- [x] Refine home dashboard and overview UI for clean screenshot sharing
+- [x] Polish interaction summary and medication cards for visual presentation
+- [x] Save checkpoint and verify preview
+- [x] Inspect user attached screenshots for scanner issue
+- [x] Fix prescription scanner and add robust mock/real image capture & parsing
+- [x] Add cross-device QR code sharing / export options so it opens easily on any phone/email
+- [x] Save checkpoint and verify preview
+- [x] Redesign plain box buttons under MedCheck on home screen into floating modern pill cards with vibrant gradients
+- [x] Redesign scan and demo prescription boxes into polished interactive cards
+- [x] Save checkpoint and verify preview
+- [x] Add smooth spring press animations and scale feedback to gradient cards
+- [x] Implement prominent dark mode toggle on header / profile for testing
+- [x] Implement automated AI OCR text extraction on captured/uploaded prescription images
+- [x] Save checkpoint and verify preview
+- [x] Implement manual text editing / correction for AI OCR extracted medications
+- [x] Create scan history section to view previously scanned prescriptions
+- [x] Add multi-stage progress indicator and animated loading states during AI OCR processing
+- [x] Save checkpoint and verify preview
+- [x] Restart dev server and clear stale Metro cache to fix infinite loading preview
+- [x] Optimize web responsive container layout so it fits desktop browsers and mobile screens perfectly
+- [x] Save checkpoint and verify preview
+- [x] Implement desktop keyboard navigation shortcuts (Enter/Esc)
+- [x] Implement PDF export feature for scanned prescription history
+- [x] Create side-by-side comparison view for desktop users to view prescription image and extracted text simultaneously
+- [x] Save checkpoint and verify preview
+- [x] Remove chunky bright colored boxes across Home and Scan screens
+- [x] Replace with clean, minimalist Apple HIG-inspired surface cards with subtle borders and refined typography
+- [x] Save checkpoint and verify preview
+- [ ] Replace random demo prescription fallback with intelligent OCR parsing for uploaded images
+- [ ] Ensure all 4 medications from user prescription are accurately recognized and extracted
+- [x] Save checkpoint and verify preview

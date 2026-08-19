@@ -1,0 +1,25 @@
+# Project TODO
+
+- [x] Generate app logo/icon
+- [x] Update app.config.ts with branding and icon
+- [x] Update theme.config.js with medical color palette
+- [x] Add icon mappings in icon-symbol.tsx
+- [x] Build drug database with common medicines and interactions
+- [x] Create medication context/store (AsyncStorage persistence)
+- `[x]` Implement Levenshtein fuzzy matching utility
+- [x] Build interaction check engine
+- [x] Home Screen — welcome, stats, action buttons
+- [x] My Medications Tab — list all medicines with details
+- [x] Scan/Add Prescription Screen — camera + manual entry
+- [x] Interaction Results Screen — severity cards
+- [x] Report Screen — shareable summary
+- [x] Settings/Profile Tab — app info
+- [x] Add haptic feedback on interactions
+- [x] Copy app icon to all required asset locations
+- [x] Test all flows end-to-end
+- [x] Polish UI and fix edge cases
+- [x] Fix Scan Prescription functionality — demo prescriptions not working
+- [x] Improve UI with attractive gradients, animations, modern design
+- [x] Make app visually appealing — better colors, shadows, card designs
+- [x] Fix Scan Prescription to use real camera + OCR from prescription photo
+- [x] Add Tesseract.js or OCR library for text extraction from prescription images
